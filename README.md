@@ -1,2 +1,1 @@
-This game was developed solely by Noah Prokop.
-
+All code written by jojonanopo
